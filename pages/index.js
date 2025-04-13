@@ -11,7 +11,7 @@ export default function Home() {
         href="#"
         className="bg-white text-gray-900 px-6 py-3 rounded-full font-semibold shadow-lg hover:bg-gray-200 transition"
       >
-        Inizia subito
+        Inizia subito ADESSO
       </a>
     </div>
   );
